@@ -17,7 +17,7 @@ void intro() {
 	cout<<"°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°";
 	cout<<"||\t\t\t\t\t\t\t\t\t      ||";
 	cout<<"||\t\t\t\t\t\t\t\t\t      ||";
-	cout<<"||\t\t\t\tDaljeet Singh Chhabra\t\t\t      ||";
+	cout<<"||\t\t\t\tAnurag Rout\t\t\t      ||";
 	cout<<"||\t\t\t\t\t\t\t\t\t      ||";
 	cout<<"||\t\t\t\t\t  \t\t\t\t      ||";
 	cout<<"°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°";
